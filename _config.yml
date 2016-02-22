@@ -1,0 +1,14 @@
+layout_spectrum: 0.5106806
+typography_spectrum: 0.817706
+color:
+  saturation: 0.3170941
+  lightness: 0.303814
+  brandStrength: 0.6198155
+  rhythmicContrast: 0.4750075
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Beazt Mode
